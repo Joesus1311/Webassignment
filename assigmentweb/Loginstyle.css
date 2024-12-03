@@ -1,0 +1,41 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    margin: 0;
+    background-color: #979393;
+}
+h1{
+    margin-bottom: 30px;
+    text-align: center;
+} 
+
+.usernamebox{
+    border: 2px hidden red;
+    border-radius: 5px;
+    width: 100%;
+    align-items: center;
+}
+
+.passbox{
+    border: 2px hidden red;
+    border-radius: 5px;
+    width: 100%;
+    align-items: center;
+}
+.login_form{
+    border: 2px solid #000000;
+    background-color: #ffffff;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    font-family: Arial, sans-serif;
+}
+
+button{
+    align-items: center;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    
+}
